@@ -1,4 +1,6 @@
 # Deno Message Translator App (powered by DeepL API)
+このアプリは、この[サイト](https://qiita.com/seratch/items/23e22b4eed489cdd04d7)を元に構築し、
+Google翻訳の機能を追加しています
 
 This app contains a sample TypeScript project for use on Slack's
 [next-generation hosted platform](https://api.slack.com/future). The project
