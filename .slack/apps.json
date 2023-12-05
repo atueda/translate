@@ -1,0 +1,12 @@
+{
+  "apps": {
+    "next-gen-study": {
+      "name": "next-gen-study",
+      "app_id": "A04MYTLTNTA",
+      "enterprise_id": "E03V4F6FQ04",
+      "team_id": "T04FSDKM42E",
+      "IsDev": false
+    }
+  },
+  "default": "next-gen-study"
+}
